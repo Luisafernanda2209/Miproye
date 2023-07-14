@@ -1,0 +1,27 @@
+.minavbar{
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);    
+}
+
+.buttonav{
+    background: none;
+    border: none;
+
+}
+
+.buttonav:hover{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    border-radius: 10px;
+    color: white;
+    padding: 40px;
+}
+
+.Titulo{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
